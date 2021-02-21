@@ -8,8 +8,7 @@
 		"mbtiles": "mbtiles"
 	  },
 	  "domains": [
-		"localhost:8080",
-		"127.0.0.1:8080"
+		"tiles.projectearth.dev"
 	  ],
 	  "formatQuality": {
 		"jpeg": 80,
